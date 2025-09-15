@@ -1,11 +1,8 @@
 {
   "name": "ip-logger-app",
   "version": "1.0.0",
-  "description": "Simple Express app to log visitor IPs and view them via login.",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "scripts": { "start": "node server.js" },
   "dependencies": {
     "express": "^4.18.2",
     "express-session": "^1.17.3",
